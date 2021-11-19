@@ -6,7 +6,8 @@ public class Computer {
 		
 	}
 	
-	
+	private Computer(String ram) {
+        }
 	private String ram;
 	private String memory;
 	private boolean graphicCardEnabled;
