@@ -1,7 +1,7 @@
 // added comment
 public class Computer {
 
-	
+	// adding comment
 	private Computer() {
 		
 	}
