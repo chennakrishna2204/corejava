@@ -1,7 +1,7 @@
-// added comment
+
 public class Computer {
 
-	// adding comment
+
 //adding for git
 	private Computer() {
 		
